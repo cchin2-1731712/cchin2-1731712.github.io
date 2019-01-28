@@ -1,0 +1,47 @@
+#Header {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+}
+
+#Header h1 {
+    text-shadow: 1px 1px 2px black;
+    font-size: 40px;
+    font-family: "Passion One";
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+
+#Content {
+    border: solid 8px black;
+    border-radius: 25px;
+    outline-style: dotted;
+    outline-color: red;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    width: 500px;
+    padding: 15px;
+    text-align: center;
+}
+
+#LeftNav {
+    border: solid 8px red;
+    margin-bottom: 10px;
+    width: 400px;
+    float: left;
+    padding-bottom: 8px;
+    text-align: center;
+}
+
+#RightNav {
+    border: solid 8px red;
+    margin-bottom: 10px;
+    width: 400px;
+    float: right;
+    padding-bottom: 8px;
+    text-align: center;
+}
